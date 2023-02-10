@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboFries/static/css/main.548cf21c.css",
+    "main.js": "/RoboFries/static/js/main.39e2d92f.js",
+    "static/js/787.c944eb77.chunk.js": "/RoboFries/static/js/787.c944eb77.chunk.js",
+    "static/media/SEGA.woff": "/RoboFries/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/RoboFries/index.html",
+    "main.548cf21c.css.map": "/RoboFries/static/css/main.548cf21c.css.map",
+    "main.39e2d92f.js.map": "/RoboFries/static/js/main.39e2d92f.js.map",
+    "787.c944eb77.chunk.js.map": "/RoboFries/static/js/787.c944eb77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.548cf21c.css",
+    "static/js/main.39e2d92f.js"
+  ]
+}
